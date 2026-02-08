@@ -4,5 +4,8 @@
 //Day 02:
 // Find given string is a palindrome
 
+// Day 03:
+// Find the most second largest number in array
+
 //Day 03:
 // Find most frequent number in array
